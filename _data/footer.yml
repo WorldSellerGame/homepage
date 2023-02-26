@@ -4,6 +4,10 @@ left_links:
     link: https://blog.worldsellergame.com
 right_links:
   - name:
+    link: mailto:hi@worldsellergame.com
+    new_window: true
+    social_icon: Email
+  - name:
     link: https://discord.worldsellergame.com
     new_window: true
     social_icon: Discord
