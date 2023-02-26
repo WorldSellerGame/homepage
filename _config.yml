@@ -1,8 +1,8 @@
 # ----
 # Site
 
-title: Frisco Template
-url: "https://brave-submarine.cloudvent.net"
+title: World Seller
+url: "https://worldsellergame.com"
 baseurl:
 google_analytics_key:
 google_maps_javascript_api_key:
@@ -10,15 +10,14 @@ disqus_shortname:
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
 logo: /siteicon.png
-description: App marketing template for Jekyll.
+description: World Seller is a game about leveling up your skills and being the best person in the realms!
 author:
   name:
   email:
   twitter: # twitter username without the @ symbol
 social:
-  name: Frisco Template
-  links:
-    - https://github.com/CloudCannon/frisco-jekyll-template
+  name:
+  links: []
 
 # -----
 # Build
@@ -55,38 +54,8 @@ defaults:
   -
     scope:
       path: ""
-      type: "staff_members"
-    values:
-      _options:
-        image_path:
-          width: 440
-          height: 440
-          uploads_dir: "/images/staff_members"
-  -
-    scope:
-      path: ""
     values:
       layout: "default"
-  -
-    scope:
-      type: "posts"
-    values:
-      layout: "post"
-      _options:
-        image:
-          width: 2000
-          height: 1322
-          resize_style: cover
-          uploads_dir: "/images/post_uploads"
-        content:
-          width: 1500
-          height: 2000
-          uploads_dir: "/images/post_uploads"
-  -
-    scope:
-      path: "contact-success.html"
-    values:
-      layout: "page"
   -
     scope:
       path: ""
@@ -105,14 +74,8 @@ defaults:
 # CloudCannon
 
 social_icons:
-  - Facebook
-  - Google Plus
-  - Instagram
-  - LinkedIn
-  - Pinterest
-  - Tumblr
+  - Discord
   - Twitter
-  - YouTube
   - Email
   - RSS
 
