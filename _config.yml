@@ -12,11 +12,11 @@ disqus_shortname:
 logo: /siteicon.png
 description: World Seller is a game about leveling up your skills and taking over the world!
 author:
-  name:
-  email:
+  name: World Seller Team
+  email: hi@worldsellergame.com
   twitter: # twitter username without the @ symbol
 social:
-  name:
+  name: World Seller
   links: []
 
 # -----
